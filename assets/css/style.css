@@ -1,3 +1,29 @@
+body {
+	background-color: #bdcebe;
+}
+
+
+
 button, div, form, input {
   margin: 10px;
+}
+
+.inline {
+  display:inline-block;
+}
+
+.btn {
+	background-color: #eca1a6;
+	font-size:1.2em;
+	font-weight: bold;
+}
+
+.btn:hover {
+	background-color: #d6cbd3;
+
+}
+
+label {
+	font-weight: bold;
+	font-size:1.2em;
 }
